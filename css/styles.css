@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto",sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     line-height: 150%;
     background-color: #FFFFFF;
@@ -28,11 +28,11 @@ letter-spacing: 0.04em;
     cursor: pointer;
 
         background-color:#4d5ae5; 
-         box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+       
     
  }
  .btn:hover,:focus{
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    
         background: #404bbf;
         cursor: pointer;
  }
