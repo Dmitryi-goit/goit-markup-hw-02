@@ -17,6 +17,9 @@ body{
 .std{
     color: #2e2f42;
 }
+.main-page{
+   background-color: #2e2f42;
+}
 .btn {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
@@ -93,17 +96,17 @@ ul{
         line-height: 107%;
             letter-spacing: 0.02em;
             text-align: center;
-           
+           color:  #ffffff;           
             
 }
-.opportunity > .goals{
+.opportunity .goals{
 font-weight: 500;
     font-size: 20px;
     line-height: 120%;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
-.opportunity > .par{
+.opportunity .par{
     font-weight: 400;
         font-size: 16px;
         line-height: 150%;
@@ -119,7 +122,7 @@ font-weight: 500;
             color: #2e2f42;
             text-transform: capitalize;
 }
-.team > .guys{
+.team  .guys{
     font-weight: 500;
         font-size: 20px;
 line-height: 120%;
@@ -127,7 +130,7 @@ line-height: 120%;
     text-align: center;
     color: #2e2f42;
 }
-.team > .guys-page{
+.team  .guys-page{
     font-weight: 400;
         font-size: 16px;
         line-height: 150%;
@@ -135,14 +138,14 @@ line-height: 120%;
             text-align: center;
             color: #434455;
 }
-.aps > .few-aps{
+.few-aps{
     font-weight: 500;
         font-size: 20px;
         line-height: 120%;
             letter-spacing: 0.02em;
             color: #2e2f42;
 }
-.aps > .par-aps{
+.par-aps{
     font-weight: 400;
         font-size: 16px;
         line-height: 150%;
@@ -173,7 +176,7 @@ line-height: 120%;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #f4f4fd;
+   color: #2e2f42;
 }
 .footer{
     background: #2e2f42;
@@ -189,4 +192,8 @@ color: #4d5ae5;
 }
 .second-logo{
   color:  #f4f4fd;
+}
+.footer-page{
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
 }
